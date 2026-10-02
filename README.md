@@ -14,9 +14,9 @@
 <img width="49%" src="https://github-readme-stats-chi-eight-28.vercel.app/api/top-langs/?username=vituxdxd&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vituxdxd/vituxdxd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vituxdxd/vituxdxd/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/vituxdxd/vituxdxd/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vituxdxd/vituxdxd/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vituxdxd/vituxdxd/output/github-snake.svg?v=2" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/vituxdxd/vituxdxd/output/github-snake.svg?v=2" />
 </picture>
 
 <br/><br/>
